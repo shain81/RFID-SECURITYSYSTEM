@@ -4,6 +4,12 @@ This project is a password-protected security system using an STM32 microcontrol
 
 ---
 
+
+## 📷 Preview
+
+![Rfid system](./RFIDSECURITY.png)
+
+
 ## 🚀 Features
 
 - Password-based authentication system
